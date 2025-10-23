@@ -10,7 +10,7 @@
     fun_fact = "Me gusta el Valorant"
 	hobbies = [
 				'Escuchar música',
-         'Escalar',
+         		'Escalar',
 			 	'Videojuegos',
 				'Sci-Fi Movies'
 			]
