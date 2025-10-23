@@ -12,7 +12,7 @@
 				'Escuchar música',
          		'Escalar',
 			 	'Videojuegos',
-				'Sci-Fi Movies'
+				'Patinar'
 			]
 	
 	def getCity():
