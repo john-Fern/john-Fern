@@ -16,11 +16,11 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_Chile()
+		return Santiago_Chile()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+		ConvertirmeEnIngenieroInformátic()
+		FinalizarMisProyectos()
 	
  ```
 
