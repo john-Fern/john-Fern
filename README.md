@@ -1,25 +1,25 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## ¿Quién soy?
+## Who am I?
 
  ```python
   class WhoAmI:
     user = 'Jonathan Fernández'
-	current_edu = "CSIT"
+    current_edu = "INGINF"
     currently_learning = "Java"
-    fun_fact = "Me gusta el Valorant"
+    fun_fact = "I like Valorant"
 	hobbies = [
-				'Escuchar música',
-				'Escalar',
-			 	'Videojuegos',
-				'Patinar'
+				'Listen to music',
+				'climb',
+			 	'video games',
+				'skate'
 			]
 	
 	def getCity():
 		return Santiago_Chile()
 	
 	def Ambitions():
-		ConvertirmeEnIngenieroInformátic()
+		Become a computer engineer()
 		FinalizarMisProyectos()
 	
  ```
