@@ -3,7 +3,7 @@
 ## Who am I?
 
  ```python
-  class WhoAmI:
+  class who_am_i:
     user = 'Jonathan Fernández'
     current_edu = "INGINF"
     currently_learning = "Java"
@@ -15,12 +15,12 @@
 				'skate'
 			]
 	
-	def getCity():
+	def get_city():
 		return Santiago_Chile()
 	
-	def Ambitions():
-		Become a computer engineer()
-		FinalizarMisProyectos()
+	def ambitions():
+		become_a_computer_engineer()
+		finish_my_projects()
 	
  ```
 
@@ -102,5 +102,5 @@
 </p>
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+[Jonathan-Fernández](https://github.com/john-Fern)
+Last Edited on - 23/10/2025
