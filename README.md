@@ -1,4 +1,4 @@
-![image_anime_progra](https://chatgpt.com/backend-api/estuary/content?id=file_00000000637061f5b062faea90ca05e3&ts=489254&p=fs&cid=1&sig=8182124757ea54a87a615e9f7e6c15019e52f0c0f62a207be56e90e81bae563f&v=0)
+![image_anime_progra](john_image.png)
 
 ## Who am I?
 
