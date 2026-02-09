@@ -1,26 +1,21 @@
 ![image_anime_progra](john_image.png)
 
-## Who am I?
+## Sobre mí
 
  ```python
-  class who_am_i:
-    user = 'Jonathan Fernández'
-    current_edu = "INGINF"
-    currently_learning = "Java"
-    fun_fact = "I like Valorant"
+  class sobre_mi:
+    usuario = 'Jonathan Fernandez'
+    estudiando = "INGINF"
+    aprendiendo_actualmente = "Java"
 	hobbies = [
-				'Listen to music',
-				'climb',
-			 	'video games',
-				'skate'
+				'Escuchar música',
+				'escalar',
+			 	'videojuegos',
+				'patinar'
 			]
 	
 	def get_city():
 		return Santiago_Chile()
-	
-	def ambitions():
-		become_a_computer_engineer()
-		finish_my_projects()
 	
  ```
 
