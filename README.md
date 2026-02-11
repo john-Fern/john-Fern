@@ -2,8 +2,18 @@
 
 ## Sobre mí
 
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <a href="./icon.jpg">
+    <img src="./icon.jpg" alt="Foto de rock lee" width="140" height="140"
+      style="border-radius:50%; object-fit:cover;" />
+  </a>
+  <div>Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Me dedico a diseñar e implementar soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados.
+  </div>
+</div>
 
-Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Me dedico a diseñar e implementar soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados. [<img src="./icon.jpg" alt="Foto de Jonathan Fernández" width="280" />](./icon.jpg)
+
+
+ [<img src="./icon.jpg" alt="Foto de rock lee" width="280" />](./icon.jpg)
 
 ```python
 class SobreMi:
