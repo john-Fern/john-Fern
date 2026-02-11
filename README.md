@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Diseño e implemento soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados. | [<img src="./icon.jpg" alt="Foto de Jonathan Fernández" width="220" />](./icon.jpg) |
+| Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Diseño e implemento soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados. | [<img src="./icon.jpg" alt="Foto de Jonathan Fernández" width="280" />](./icon.jpg) |
 
 ```python
 class SobreMi:
@@ -49,6 +49,7 @@ class SobreMi:
 [![Next.js][badge-nextjs]][link-nextjs]
 [![Django][badge-django]][link-django]
 [![Flask][badge-flask]][link-flask]
+[![Spring Boot][badge-springboot]][link-springboot]
 [![Bootstrap][badge-bootstrap]][link-bootstrap]
 [![Tailwind CSS][badge-tailwind]][link-tailwind]
 
@@ -103,6 +104,8 @@ class SobreMi:
 [link-django]: https://www.djangoproject.com/
 [badge-flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [link-flask]: https://flask.palletsprojects.com/
+[badge-springboot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+[link-springboot]: https://spring.io/projects/spring-boot
 [badge-bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 [link-bootstrap]: https://getbootstrap.com/
 [badge-tailwind]: https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
