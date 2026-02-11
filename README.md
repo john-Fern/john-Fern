@@ -2,9 +2,9 @@
 
 ## Sobre mí
 
-| Perfil profesional | Imagen |
+|  |  |
 | --- | --- |
-| Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Diseño e implemento soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados. | ![Imagen de perfil][profile-image] |
+| Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Diseño e implemento soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados. | [<img src="./icon.jpg" alt="Foto de Jonathan Fernández" width="220" />](./icon.jpg) |
 
 ```python
 class SobreMi:
