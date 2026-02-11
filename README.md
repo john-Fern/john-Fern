@@ -2,22 +2,22 @@
 
 ## Sobre mí
 
-<div style="display:flex; 
-  gap:16px; 
-  align-items:flex-start;">
-  <a href="./icon.jpg">
-    <img src="./icon.jpg" alt="Foto de rock lee" width="140" height="140"
-      style="border-radius:50%; object-fit:cover;" />
-  </a>
-  <div>Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Me dedico a diseñar e implementar soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados.
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      Soy desarrollador Full Stack con especialización en backend, automatización y análisis de datos. Me dedico a diseñar e implementar soluciones de punta a punta con Python, Java, JavaScript y C, integrando APIs REST, procesamiento de información y buenas prácticas de documentación técnica. Mi enfoque está en construir software mantenible, escalable y orientado a resultados.
+    </td>
+    <td width="170" align="right">
+      <img src="./icon.jpg" alt="Foto de rock lee" width="150" style="border-radius:7px; object-fit:cover;" />
+    </td>
+  </tr>
+</table>
 
 ```python
 class SobreMi:
     usuario = "Jonathan Fernandez"
-    estudiando = "INGINF"
-    aprendiendo_actualmente = "Java"
+    estudiando = "Ingeniería en Informática"
+    aprendiendo_actualmente = "Arquitecturas Web"
     hobbies = [
         "Escuchar música",
         "Escalar",
@@ -63,8 +63,8 @@ class SobreMi:
 ## Plataformas y Hosting
 
 [![GitHub Pages][badge-github-pages]][link-github-pages]
-[![Heroku][badge-heroku]][link-heroku]
-[![XAMPP][badge-xampp]][link-xampp]
+[![Render][badge-render]][link-render]
+[![Vercel][badge-vercel]][link-vercel]
 
 ## Software y Herramientas
 
@@ -119,10 +119,10 @@ class SobreMi:
 [link-tailwind]: https://tailwindcss.com/
 [badge-github-pages]: https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white
 [link-github-pages]: https://pages.github.com/
-[badge-heroku]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-[link-heroku]: https://www.heroku.com/
-[badge-xampp]: https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white
-[link-xampp]: https://www.apachefriends.org/
+[badge-render]: https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+[link-render]: https://render.com/
+[badge-vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[link-vercel]: https://vercel.com/
 [badge-git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [link-git]: https://git-scm.com/
 [badge-vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
