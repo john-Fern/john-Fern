@@ -143,10 +143,6 @@ class SobreMi:
 [link-gmail]: mailto:jonatha.fernandezf@gmail.com
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 16th, 2026, 14:53pm
+
 <!--RECENT_ACTIVITY:last_update_end-->
