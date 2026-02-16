@@ -142,6 +142,14 @@ class SobreMi:
 [badge-gmail]: https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 [link-gmail]: mailto:jonatha.fernandezf@gmail.com
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+\### :zap: Actividad reciente
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
