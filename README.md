@@ -143,6 +143,5 @@ class SobreMi:
 [link-gmail]: mailto:jonatha.fernandezf@gmail.com
 
 ### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
